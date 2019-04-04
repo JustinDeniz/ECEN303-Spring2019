@@ -24,7 +24,7 @@ Undergraduate Students
 * Ahmet Coskuner, [acoskuner500](https://github.com/acoskuner500)
 * Ethan Curag
 * Jinyu Daig
-* Justin Denizg
+* Justin Deniz <Justin Deniz>, [JustinDeniz](https://github.com/JustinDeniz)
 * Maria Dmitrievskaiag
 * Parker Drake, [ParkerDrake](https://github.com/ParkerDrake)
 * Seyedeh Nahid Esmati, [nahidgithubaccount](https://github.com/nahidgithubaccount)
